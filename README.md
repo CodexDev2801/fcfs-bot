@@ -1,6 +1,6 @@
 First Come, First Serve
 ===
-
+[![Run on Repl.it](https://repl.it/badge/github/perilstar/fcfs-bot)](https://repl.it/github/perilstar/fcfs-bot)
 A Discord bot that enhances First Come, First Serve in voice channel waiting rooms. 
 
 ## Configuring Bot Admin, Mod, and Helper roles:  
